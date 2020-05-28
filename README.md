@@ -7,3 +7,5 @@ The examples directory contains audio and MIDI sequence examples from the follow
 * Performance RNN model with default temperature configuration
 * Performance RNN model with low temperature configuration
 * Transformation module
+
+The transformation directory contains a MATLAB script requiring MIDI Toolbox.
