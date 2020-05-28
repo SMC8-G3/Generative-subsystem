@@ -1,4 +1,4 @@
-# Generative subsystem outputs
+# Generative subsystem
 The video file SMC8-G3_video.mp4 gives a brief overview of how the generative subsystem works.
 
 The examples directory contains audio and MIDI sequence examples from the following sources:
